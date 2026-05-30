@@ -180,12 +180,21 @@ This reflects a realistic analyst workflow where AI supports communication and d
 Healthcare-Analytics-Project/
 ├── ai-insights/
 ├── dashboard/
-│   ├── Images/
 │   └── Hospital_Operations_Patient_Analytics.pbix
 ├── data/
 │   ├── raw/
 │   └── processed/
 ├── docs/
+│   ├── project-planning.md
+│   ├── dataset-understanding.md
+│   ├── data-dictionary.md
+│   ├── data-quality-report.md
+│   ├── cleaning-strategy.md
+│   ├── stage3-validation-report.md
+│   ├── stage4-sql-summary.md
+│   ├── stage5-python-eda-results.md
+│   ├── stage6-powerbi-dax-measures.md
+│   └── stage6-powerbi-dashboard-summary.md
 ├── notebooks/
 │   ├── 01_dataset_understanding.ipynb
 │   ├── 02_data_cleaning_preprocessing.ipynb
