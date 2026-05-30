@@ -1,0 +1,26 @@
+# IDE and editor files
+.idea/
+.vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Power BI temporary lock/cache files
+~$*.pbix
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local reference screenshots that are not part of the dashboard preview
+data/raw/Screenshot*.png
+
+# Environment files
+.env
+.venv/
+venv/
